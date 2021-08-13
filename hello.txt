@@ -10,4 +10,6 @@ hello git master txt
 hello git
 hello git
 hello git22
-hello git hotfix test
+hello git hotfix test test
+
+>>>>>>> hot-fix
